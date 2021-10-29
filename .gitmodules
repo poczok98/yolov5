@@ -1,0 +1,3 @@
+[submodule "lidar_train_val_test_datasets"]
+	path = lidar_train_val_test_datasets
+	url = git@github.com:poczok98/lidar_train_val_test_datasets.git
